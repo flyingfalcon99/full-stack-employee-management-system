@@ -1,0 +1,27 @@
+[
+  {
+    "username": "mk.livestrong",
+    "password": "livestrong",
+    "role": "user"
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "role": "admin"
+  },
+  {
+    "username": "testuser_1776873242753",
+    "password": "password123",
+    "role": "user"
+  },
+  {
+    "username": "testuser_1776873332708",
+    "password": "password123",
+    "role": "user"
+  },
+  {
+    "username": "testuser_1776873475114",
+    "password": "password123",
+    "role": "user"
+  }
+]

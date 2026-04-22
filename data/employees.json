@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1776872937534",
+    "name": "Mukesh Kumar",
+    "email": "mk.livestrong@gmail.com",
+    "department": "trading",
+    "contact": "732-543-5566"
+  },
+  {
+    "id": "1776872963780",
+    "name": "R K",
+    "email": "r.k@gmail.com",
+    "department": "UX",
+    "contact": "543-634-5323"
+  },
+  {
+    "id": "1776872991445",
+    "name": "N K",
+    "email": "n.k@gmail.com",
+    "department": "Funds Services",
+    "contact": "654-432-5663"
+  },
+  {
+    "id": "1776873338826",
+    "name": "Jane Cypress",
+    "email": "jane.cypress@example.com",
+    "department": "Quality Assurance",
+    "contact": "555-0100"
+  },
+  {
+    "id": "1776873498709",
+    "name": "Jane Cypress",
+    "email": "jane.cypress@example.com",
+    "department": "Quality Assurance",
+    "contact": "555-0100"
+  }
+]
